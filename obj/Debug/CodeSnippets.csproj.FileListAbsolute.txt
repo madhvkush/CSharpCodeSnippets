@@ -1,0 +1,7 @@
+C:\Users\Madhv\source\repos\CodeSnippets\bin\Debug\CodeSnippets.exe.config
+C:\Users\Madhv\source\repos\CodeSnippets\bin\Debug\CodeSnippets.exe
+C:\Users\Madhv\source\repos\CodeSnippets\bin\Debug\CodeSnippets.pdb
+C:\Users\Madhv\source\repos\CodeSnippets\obj\Debug\CodeSnippets.csproj.CoreCompileInputs.cache
+C:\Users\Madhv\source\repos\CodeSnippets\obj\Debug\CodeSnippets.exe
+C:\Users\Madhv\source\repos\CodeSnippets\obj\Debug\CodeSnippets.pdb
+C:\Users\Madhv\source\repos\CodeSnippets\obj\Debug\CodeSnippets.csprojAssemblyReference.cache
